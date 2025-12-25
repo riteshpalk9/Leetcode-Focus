@@ -56,11 +56,7 @@ No frameworks. No dependencies.
 
 Follow these steps to run the extension locally:
 
-1️⃣ **Clone the repository**
-
-```bash
-git clone https://github.com/your-username/leetcode-css-cleaner.git
-```
+1️⃣ **Download the Repo Zip & Extract File.**
 
 2️⃣ **Open Chrome Extensions page**
 
