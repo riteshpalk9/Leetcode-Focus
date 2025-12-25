@@ -102,9 +102,11 @@ You can disable the cleaner anytime from the popup.
 
 ---
 
-## 📸 Screenshots
-
-🖼️ *Add screenshots or GIFs here to showcase before/after UI changes.*
+## 📸 Screenshots🖼️
+Before
+![Before enabling the extension](screenshots/1.png)
+After
+![After enabling the extension](screenshots/1.png)
 
 ---
 
