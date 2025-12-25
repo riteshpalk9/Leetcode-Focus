@@ -102,7 +102,7 @@ You can disable the cleaner anytime from the popup.
 Before
 ![Before enabling the extension](screenshots/1.png)
 After
-![After enabling the extension](screenshots/1.png)
+![After enabling the extension](screenshots/2.png)
 
 ---
 
